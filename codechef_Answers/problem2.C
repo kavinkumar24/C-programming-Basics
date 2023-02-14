@@ -1,5 +1,5 @@
 ////Final Population/////
-// Problem
+// Problem 
 // There were initially X million people in a town, out of which 
 // Y million people left the town and 
 // Z million people immigrated to this town.

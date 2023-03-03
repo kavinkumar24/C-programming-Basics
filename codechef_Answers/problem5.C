@@ -10,6 +10,7 @@ Each test case consists of a single line containing three integers N, M and K - 
 already registered for the course.*/
 
 
+
 /////////////////////////////////////Solution////////////
 
 

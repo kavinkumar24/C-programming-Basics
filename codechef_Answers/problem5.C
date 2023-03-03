@@ -11,3 +11,23 @@ already registered for the course.*/
 
 
 /////////////////////////////////////Solution////////////
+
+
+#include <stdio.h>
+int main(void) {
+	
+	int n;
+	scanf("%d",&n);
+	for(int i=0;i<n;i++){
+	    int a,b,c;
+	    scanf("%d %d %d",&a,&b,&c);
+	    int d = b - c;
+	    if(a<=b && a<=d){
+	        printf("Yes\n");
+	    }
+	    else{
+	        printf("NO \n");
+	    }
+	}
+	return 0;
+}

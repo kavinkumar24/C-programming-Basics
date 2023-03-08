@@ -8,3 +8,23 @@ If he starts watching a new episode now, will he finish watching it strictly bef
 
 ///////////////////////////////SOLUTION//////////////////////////
 
+#include <stdio.h>
+
+int main(void) {
+    int T;
+    scanf("%d",&T);
+    for(int i=0;i<T;i++){
+        int amt_time;
+        scanf("%d",&amt_time);
+        if(amt_time>24){
+            printf("YES\n");
+        }
+        else{
+            printf("NO\n");
+        }
+    }
+	return 0;
+}
+
+
+

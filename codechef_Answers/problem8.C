@@ -6,3 +6,6 @@ Chef has opened a new airline. Chef has
 X passengers.
 On the first day itself, Y people are willing to book a seat in any one of Chef's airplanes.
 Given that Chef charges Z rupees for each ticket, find the maximum amount he can earn on the first day.*/
+
+
+///solution///

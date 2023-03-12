@@ -9,3 +9,24 @@ Given that Chef charges Z rupees for each ticket, find the maximum amount he can
 
 
 ///solution///
+
+
+#include <stdio.h>
+
+int main(void) {
+    int T;
+    scanf("%d",&T);
+    for(int i=0;i<T;i++){
+        int X,Y,Z;
+        scanf("%d %d %d",&X,&Y,&Z);
+        int D = 10*X;
+        if(D>=Y){
+            printf("%d\n",Y*Z);
+        }
+        else{
+            printf("%d\n",10*X*Z);
+        }
+    }
+	return 0;
+}
+

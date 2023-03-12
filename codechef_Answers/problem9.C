@@ -10,3 +10,28 @@ if X>5000, discount is  500 rupees. Find the final amount Chef needs to pay for 
 
 
 ///////////////solution////////////
+
+#include <stdio.h>
+
+int main(void) {
+	int T;
+    scanf("%d",&T);
+    for(int i=0;i<T;i++){
+        int A;
+        scanf("%d",&A);
+        if(A<=100){
+            printf("%d\n",A);
+        }
+        else if(A<=1000){
+            printf("%d\n",A-25);
+        }
+        else if(A<=5000){
+            printf("%d\n",A-100);
+        }
+        else{
+            printf("%d\n",A-500);
+        }
+    }
+	return 0;
+}
+

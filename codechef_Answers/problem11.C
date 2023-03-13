@@ -8,3 +8,5 @@ Chef's car meets an accident and required Rs
 Y lakhs for repairing.
 Determine the amount that will be rebated by the insurance company.*/
 
+
+// solution///

@@ -10,3 +10,22 @@ Determine the amount that will be rebated by the insurance company.*/
 
 
 // solution///
+
+#include <stdio.h>
+
+int main(void) {
+	int T;
+	scanf("%d",&T);
+	for(int i = 0;i<T;i++){
+	    int X,Y;
+	    scanf("%d %d",&X,&Y);
+	    if(X<Y){
+	        printf("%d\n",X);
+	    }
+	    else{
+	        printf("%d\n",Y);
+	    }
+	}
+	return 0;
+}
+

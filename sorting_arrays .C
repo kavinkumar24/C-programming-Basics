@@ -1,3 +1,6 @@
+//// sort the unsorted array into sorted array I use Bubble sort for sorting //
+
+
 #include<stdio.h>
 int main()
 {

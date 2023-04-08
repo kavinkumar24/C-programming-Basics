@@ -12,3 +12,18 @@
 
 
 
+#include <stdio.h>
+
+int main(void) {
+	
+	int n;
+	scanf("%d",&n);
+	for(int i=0;i<n;i++){
+	   int g,b;
+	   scanf("%d %d",&g,&b);
+	   printf("%d\n",b-g);
+	}
+
+	return 0;
+}
+

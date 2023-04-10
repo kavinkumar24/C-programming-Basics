@@ -8,6 +8,9 @@ A percent on its product and the second store is providing a discount of B perce
 Chef is wondering which store is selling the product at a cheaper price after the discount has been applied. Can you help him identify the better deal*/
 
 
+
+
+
 #include <stdio.h>
 int main(void) {
     int T;

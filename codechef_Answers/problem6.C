@@ -9,7 +9,6 @@ Chef is wondering which store is selling the product at a cheaper price after th
 
 
 #include <stdio.h>
-
 int main(void) {
     int T;
     scanf("%d",&T);

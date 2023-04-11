@@ -24,6 +24,5 @@ int main(void) {
 	   scanf("%d %d",&g,&b);
 	   printf("%d\n",b-g);
 	}
-
 	return 0;
 }

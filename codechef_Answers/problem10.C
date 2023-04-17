@@ -9,7 +9,6 @@ If Give an integer N . Write a program to obtain the sum of the first and last d
 
 
 #include <stdio.h>
-
 int main()
 {
     int l,n,t,r;

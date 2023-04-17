@@ -12,7 +12,6 @@ If Give an integer N . Write a program to obtain the sum of the first and last d
 int main()
 {
     int l,n,t,r;
-    
     scanf("%d",&t);
     while(t--){
         scanf("%d",&n);

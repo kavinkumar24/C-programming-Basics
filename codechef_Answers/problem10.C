@@ -6,6 +6,8 @@ If Give an integer N . Write a program to obtain the sum of the first and last d
 
 //// solution///////////
 
+
+
 #include <stdio.h>
 
 int main()

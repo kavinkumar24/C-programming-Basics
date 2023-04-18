@@ -14,7 +14,6 @@
 // X, Y and  Z.
 // Output Format
 // For each test case, output the final population of the town in millions.
-
 /// answer///////////////////////////////
 #include <stdio.h>
 int main(void) {

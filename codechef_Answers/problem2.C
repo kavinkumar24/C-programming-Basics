@@ -10,11 +10,11 @@
 
 // T, denoting the number of test cases.
 // The first and only line of each test case consists of three integers 
-
 // X, Y and  Z.
 // Output Format
 // For each test case, output the final population of the town in millions.
 /// answer///////////////////////////////
+
 #include <stdio.h>
 int main(void) {
 	int i;
